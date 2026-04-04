@@ -3,7 +3,7 @@
 #              Version 1.0
 # ================================================================
 
-$currentVersion = "1.0"
+$currentVersion = "1.1"
 $versionUrl     = "https://raw.githubusercontent.com/clixio14/Auto-Nano-Node-Windows/main/version.txt"
 $dashboardUrl   = "https://raw.githubusercontent.com/clixio14/Auto-Nano-Node-Windows/main/dashboard.ps1"
 
