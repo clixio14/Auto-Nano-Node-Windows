@@ -274,5 +274,5 @@ if ($choice -eq "Y" -or $choice -eq "y") {
     Write-Host ""
     Write-Host "================================================================" -ForegroundColor Cyan
     # Keep terminal open silently
-    $host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown") | Out-Null
+    cmd /c pause > nul
 }
